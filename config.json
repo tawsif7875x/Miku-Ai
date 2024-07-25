@@ -16,14 +16,14 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": ["tawsif.uwu"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
 		"notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
 	},
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "[ ! ] • Miku⁠♡",
+	"prefix": "!",
 	"database": {
 		"type": "sqlite",
 		"uriMongodb": "",
